@@ -1,1 +1,1 @@
-# Its-me
+Experience my creative journey through my personal portfolio website, crafted with HTML, CSS, and JavaScript. Explore my projects, skills, and accomplishments, showcasing my passion for design and development.
